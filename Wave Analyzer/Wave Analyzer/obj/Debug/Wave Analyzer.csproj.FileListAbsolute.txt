@@ -1,0 +1,26 @@
+D:\Test4\Wave Analyzer\Wave Analyzer\bin\Debug\Wave Analyzer.exe.config
+D:\Test4\Wave Analyzer\Wave Analyzer\bin\Debug\Wave Analyzer.exe
+D:\Test4\Wave Analyzer\Wave Analyzer\bin\Debug\Wave Analyzer.pdb
+D:\Test4\Wave Analyzer\Wave Analyzer\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Test4\Wave Analyzer\Wave Analyzer\bin\Debug\NAudio.Asio.dll
+D:\Test4\Wave Analyzer\Wave Analyzer\bin\Debug\NAudio.Core.dll
+D:\Test4\Wave Analyzer\Wave Analyzer\bin\Debug\NAudio.dll
+D:\Test4\Wave Analyzer\Wave Analyzer\bin\Debug\NAudio.Midi.dll
+D:\Test4\Wave Analyzer\Wave Analyzer\bin\Debug\NAudio.Wasapi.dll
+D:\Test4\Wave Analyzer\Wave Analyzer\bin\Debug\NAudio.WinForms.dll
+D:\Test4\Wave Analyzer\Wave Analyzer\bin\Debug\NAudio.WinMM.dll
+D:\Test4\Wave Analyzer\Wave Analyzer\bin\Debug\System.Security.AccessControl.dll
+D:\Test4\Wave Analyzer\Wave Analyzer\bin\Debug\System.Security.Principal.Windows.dll
+D:\Test4\Wave Analyzer\Wave Analyzer\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Test4\Wave Analyzer\Wave Analyzer\bin\Debug\NAudio.xml
+D:\Test4\Wave Analyzer\Wave Analyzer\bin\Debug\System.Security.AccessControl.xml
+D:\Test4\Wave Analyzer\Wave Analyzer\bin\Debug\System.Security.Principal.Windows.xml
+D:\Test4\Wave Analyzer\Wave Analyzer\obj\Debug\Wave Analyzer.csprojAssemblyReference.cache
+D:\Test4\Wave Analyzer\Wave Analyzer\obj\Debug\Wave_Analyzer.Properties.Resources.resources
+D:\Test4\Wave Analyzer\Wave Analyzer\obj\Debug\Wave Analyzer.csproj.GenerateResource.cache
+D:\Test4\Wave Analyzer\Wave Analyzer\obj\Debug\Wave Analyzer.csproj.CoreCompileInputs.cache
+D:\Test4\Wave Analyzer\Wave Analyzer\obj\Debug\Wave Analyzer.csproj.CopyComplete
+D:\Test4\Wave Analyzer\Wave Analyzer\obj\Debug\Wave Analyzer.exe
+D:\Test4\Wave Analyzer\Wave Analyzer\obj\Debug\Wave Analyzer.pdb
+D:\Test4\Wave Analyzer\Wave Analyzer\obj\Debug\Wave_Analyzer.Form1.resources
+D:\Test4\Wave Analyzer\Wave Analyzer\obj\Debug\Wave_Analyzer.graph.resources
